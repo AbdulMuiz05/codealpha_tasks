@@ -1,5 +1,5 @@
 # codealpha_tasks
-Python Programming internship tasks completed for CodeAlpha, including a Stock Portfolio Tracker, Task Automation Scripts, and a Basic Chatbot. These projects demonstrate Python fundamentals such as dictionaries, file handling, automation, regular expressions, web scraping, loops, functions, and user interaction.
+Python Programming internship tasks completed for CodeAlpha, including a Stock Portfolio Tracker, and a Basic Chatbot. These projects demonstrate Python fundamentals such as dictionaries, file handling, automation, regular expressions, loops, functions, and user interaction.
 # CodeAlpha Python Internship Tasks
 
 ## Projects Included
@@ -9,12 +9,7 @@ Python Programming internship tasks completed for CodeAlpha, including a Stock P
 - Calculates total investment value.
 - Saves portfolio data to a CSV file.
 
-### 2. Task Automation with Python
-- Automates repetitive tasks using Python.
-- Includes:
-  - Extracting email addresses from text files
-
-### 3. Basic Chatbot
+### 2. Basic Chatbot
 - Rule-based chatbot with predefined responses.
 - Handles common greetings and user interactions.
 
